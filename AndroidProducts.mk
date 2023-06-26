@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/leaf_marble.mk
+    $(LOCAL_DIR)/cr_marble.mk
 
 COMMON_LUNCH_CHOICES := \
-    leaf_marble-eng \
-    leaf_marble-userdebug \
-    leaf_marble-user
+    cr_marble-eng \
+    cr_marble-userdebug \
+    cr_marble-user
